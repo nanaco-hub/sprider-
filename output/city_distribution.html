@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+                <script type="text/javascript" src="https://assets.pyecharts.org/assets/v6/echarts.min.js"></script>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/v6/maps/china.js"></script>
+
+    
+</head>
+<body >
+    <div id="ef02d7c866624683a8c34e7a1fdabcfb" class="chart-container" style="width:900px; height:600px; "></div>
+    <script>
+        var chart_ef02d7c866624683a8c34e7a1fdabcfb = echarts.init(
+            document.getElementById('ef02d7c866624683a8c34e7a1fdabcfb'), 'light', {renderer: 'canvas', locale: 'ZH'});
+        var option_ef02d7c866624683a8c34e7a1fdabcfb = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "aria": {
+        "enabled": false
+    },
+    "series": [
+        {
+            "type": "map",
+            "name": "\u5c97\u4f4d\u6570\u91cf",
+            "label": {
+                "show": true,
+                "margin": 8,
+                "fontSize": 10,
+                "richInheritPlainLabel": true,
+                "valueAnimation": false
+            },
+            "map": "china",
+            "data": [
+                {
+                    "name": "\u676d\u5dde",
+                    "value": 28
+                },
+                {
+                    "name": "\u6210\u90fd",
+                    "value": 25
+                },
+                {
+                    "name": "\u5357\u4eac",
+                    "value": 24
+                },
+                {
+                    "name": "\u957f\u6c99",
+                    "value": 23
+                },
+                {
+                    "name": "\u5e7f\u5dde",
+                    "value": 22
+                },
+                {
+                    "name": "\u6b66\u6c49",
+                    "value": 21
+                },
+                {
+                    "name": "\u897f\u5b89",
+                    "value": 19
+                },
+                {
+                    "name": "\u6df1\u5733",
+                    "value": 16
+                },
+                {
+                    "name": "\u4e0a\u6d77",
+                    "value": 13
+                },
+                {
+                    "name": "\u5317\u4eac",
+                    "value": 9
+                }
+            ],
+            "roam": true,
+            "aspectScale": 0.75,
+            "nameProperty": "name",
+            "selectedMode": false,
+            "zoom": 1,
+            "zlevel": 0,
+            "z": 2,
+            "seriesLayoutBy": "column",
+            "datasetIndex": 0,
+            "mapValueCalculation": "sum",
+            "showLegendSymbol": false,
+            "preserveAspect": false,
+            "clip": false,
+            "emphasis": {}
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "\u5c97\u4f4d\u6570\u91cf"
+            ],
+            "selected": {},
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14,
+            "backgroundColor": "transparent",
+            "borderColor": "#ccc",
+            "borderRadius": 0,
+            "pageButtonItemGap": 5,
+            "pageButtonPosition": "end",
+            "pageFormatter": "{current}/{total}",
+            "pageIconColor": "#2f4554",
+            "pageIconInactiveColor": "#aaa",
+            "pageIconSize": 15,
+            "animationDurationUpdate": 800,
+            "selector": false,
+            "selectorPosition": "auto",
+            "selectorItemGap": 7,
+            "selectorButtonGap": 10,
+            "triggerEvent": false
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "enterable": false,
+        "confine": false,
+        "appendToBody": false,
+        "transitionDuration": 0.4,
+        "displayTransition": true,
+        "textStyle": {
+            "fontSize": 14,
+            "richInheritPlainLabel": true
+        },
+        "borderWidth": 0,
+        "padding": 5,
+        "order": "seriesAsc"
+    },
+    "title": [
+        {
+            "show": true,
+            "text": "\u5168\u56fdIT\u5c97\u4f4d\u5206\u5e03",
+            "target": "blank",
+            "subtarget": "blank",
+            "padding": 5,
+            "itemGap": 10,
+            "textAlign": "auto",
+            "textVerticalAlign": "auto",
+            "triggerEvent": false
+        }
+    ],
+    "visualMap": {
+        "show": true,
+        "type": "piecewise",
+        "min": 9,
+        "max": 28,
+        "inRange": {
+            "color": [
+                "#50a3ba",
+                "#eac763",
+                "#d94e5d"
+            ]
+        },
+        "calculable": true,
+        "inverse": false,
+        "splitNumber": 5,
+        "hoverLink": true,
+        "orient": "vertical",
+        "padding": 5,
+        "showLabel": true,
+        "itemWidth": 20,
+        "itemHeight": 14,
+        "borderWidth": 0,
+        "pieces": [
+            {
+                "min": 100,
+                "label": "\u2265100"
+            },
+            {
+                "min": 50,
+                "max": 99,
+                "label": "50-99"
+            },
+            {
+                "min": 20,
+                "max": 49,
+                "label": "20-49"
+            },
+            {
+                "min": 1,
+                "max": 19,
+                "label": "1-19"
+            }
+        ]
+    }
+};
+        chart_ef02d7c866624683a8c34e7a1fdabcfb.setOption(option_ef02d7c866624683a8c34e7a1fdabcfb);
+    </script>
+</body>
+</html>
