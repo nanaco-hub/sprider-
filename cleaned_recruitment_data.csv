@@ -1,0 +1,201 @@
+﻿job_name,company_name,salary_avg,city,city_level,experience_years,education_level,tags,job_description,source,skills_list,skill_count,education_label,city_level_label
+Python开发工程师,小米,33970.0,上海,1,8,3,微服务;SQL;机器学习,负责Python开发工程师相关工作，要求8年经验，薪资面议。,演示数据,"['微服务', 'SQL', '机器学习']",3,本科,一线城市
+人工智能工程师,腾讯,31243.0,上海,1,3,2,React;MongoDB;Nginx,负责人工智能工程师相关工作，要求3年经验，薪资面议。,演示数据,"['React', 'MongoDB', 'Nginx']",3,大专,一线城市
+数据分析师,字节跳动,26451.0,西安,3,8,4,React;Redis;Git;Vue;Python,负责数据分析师相关工作，要求8年经验，薪资面议。,演示数据,"['React', 'Redis', 'Git', 'Vue', 'Python']",5,硕士,其他城市
+产品经理,美团,21178.0,武汉,2,2,3,SQL;JavaScript;Hadoop;PyTorch,负责产品经理相关工作，要求2年经验，薪资面议。,演示数据,"['SQL', 'JavaScript', 'Hadoop', 'PyTorch']",4,本科,新一线城市
+算法工程师,美团,32320.0,长沙,3,10,2,SQL;Hadoop;JavaScript;AWS;Spring;Nginx,负责算法工程师相关工作，要求10年经验，薪资面议。,演示数据,"['SQL', 'Hadoop', 'JavaScript', 'AWS', 'Spring', 'Nginx']",6,大专,其他城市
+数据分析师,百度,18069.0,长沙,3,8,2,DevOps;Spring;JavaScript,负责数据分析师相关工作，要求8年经验，薪资面议。,演示数据,"['DevOps', 'Spring', 'JavaScript']",3,大专,其他城市
+测试工程师,华为,24533.0,上海,1,2,3,Docker;PyTorch;Kubernetes;机器学习,负责测试工程师相关工作，要求2年经验，薪资面议。,演示数据,"['Docker', 'PyTorch', 'Kubernetes', '机器学习']",4,本科,一线城市
+人工智能工程师,华为,48889.0,上海,1,8,3,Docker;Redis;Hadoop,负责人工智能工程师相关工作，要求8年经验，薪资面议。,演示数据,"['Docker', 'Redis', 'Hadoop']",3,本科,一线城市
+数据分析师,美团,26473.0,西安,3,8,3,React;Java,负责数据分析师相关工作，要求8年经验，薪资面议。,演示数据,"['React', 'Java']",2,本科,其他城市
+算法工程师,网易,30879.0,武汉,2,0,3,深度学习;TensorFlow;Kubernetes;数据分析;MySQL;Hadoop,负责算法工程师相关工作，要求0年经验，薪资面议。,演示数据,"['深度学习', 'TensorFlow', 'Kubernetes', '数据分析', 'MySQL', 'Hadoop']",6,本科,新一线城市
+算法工程师,美团,39539.0,深圳,1,1,3,Vue;微服务;Git;Spark;深度学习;Hadoop,负责算法工程师相关工作，要求1年经验，薪资面议。,演示数据,"['Vue', '微服务', 'Git', 'Spark', '深度学习', 'Hadoop']",6,本科,一线城市
+前端工程师,字节跳动,24464.0,广州,1,5,3,SQL;Linux,负责前端工程师相关工作，要求5年经验，薪资面议。,演示数据,"['SQL', 'Linux']",2,本科,一线城市
+人工智能工程师,阿里巴巴,26198.0,武汉,2,0,3,MongoDB;Vue;AWS;Python;机器学习,负责人工智能工程师相关工作，要求0年经验，薪资面议。,演示数据,"['MongoDB', 'Vue', 'AWS', 'Python', '机器学习']",5,本科,新一线城市
+算法工程师,华为,29954.0,西安,3,10,4,Spark;Docker;Redis;Python,负责算法工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Spark', 'Docker', 'Redis', 'Python']",4,硕士,其他城市
+前端工程师,字节跳动,19290.0,西安,3,5,2,数据分析;MongoDB;Nginx;Kubernetes,负责前端工程师相关工作，要求5年经验，薪资面议。,演示数据,"['数据分析', 'MongoDB', 'Nginx', 'Kubernetes']",4,大专,其他城市
+前端工程师,网易,29809.0,成都,2,5,5,Nginx;TensorFlow,负责前端工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Nginx', 'TensorFlow']",2,博士,新一线城市
+Java开发工程师,阿里巴巴,34883.0,北京,1,2,5,Java;React;Git,负责Java开发工程师相关工作，要求2年经验，薪资面议。,演示数据,"['Java', 'React', 'Git']",3,博士,一线城市
+运维工程师,字节跳动,40262.0,上海,1,10,2,DevOps;Linux;微服务;机器学习;MySQL;AWS,负责运维工程师相关工作，要求10年经验，薪资面议。,演示数据,"['DevOps', 'Linux', '微服务', '机器学习', 'MySQL', 'AWS']",6,大专,一线城市
+UI设计师,百度,29078.0,杭州,2,10,4,AWS;DevOps;微服务,负责UI设计师相关工作，要求10年经验，薪资面议。,演示数据,"['AWS', 'DevOps', '微服务']",3,硕士,新一线城市
+测试工程师,腾讯,25253.0,杭州,2,8,4,Redis;SQL;React;深度学习;JavaScript;TensorFlow,负责测试工程师相关工作，要求8年经验，薪资面议。,演示数据,"['Redis', 'SQL', 'React', '深度学习', 'JavaScript', 'TensorFlow']",6,硕士,新一线城市
+UI设计师,腾讯,13641.0,长沙,3,1,4,深度学习;数据分析,负责UI设计师相关工作，要求1年经验，薪资面议。,演示数据,"['深度学习', '数据分析']",2,硕士,其他城市
+Java开发工程师,字节跳动,26054.0,广州,1,0,5,React;Vue;机器学习;MySQL;Kubernetes;AWS,负责Java开发工程师相关工作，要求0年经验，薪资面议。,演示数据,"['React', 'Vue', '机器学习', 'MySQL', 'Kubernetes', 'AWS']",6,博士,一线城市
+人工智能工程师,京东,27713.0,长沙,3,3,3,Kubernetes;SQL;机器学习;Spark;PyTorch,负责人工智能工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Kubernetes', 'SQL', '机器学习', 'Spark', 'PyTorch']",5,本科,其他城市
+运维工程师,美团,23828.0,武汉,2,10,4,Java;Hadoop,负责运维工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Java', 'Hadoop']",2,硕士,新一线城市
+数据分析师,网易,27301.0,上海,1,1,3,Spark;Docker;Vue,负责数据分析师相关工作，要求1年经验，薪资面议。,演示数据,"['Spark', 'Docker', 'Vue']",3,本科,一线城市
+Java开发工程师,百度,37346.0,广州,1,3,5,SQL;Java;数据分析;AWS;Python;JavaScript,负责Java开发工程师相关工作，要求3年经验，薪资面议。,演示数据,"['SQL', 'Java', '数据分析', 'AWS', 'Python', 'JavaScript']",6,博士,一线城市
+测试工程师,网易,21987.0,深圳,1,3,3,Java;Docker;Hadoop;Python;Vue,负责测试工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Java', 'Docker', 'Hadoop', 'Python', 'Vue']",5,本科,一线城市
+测试工程师,百度,31871.0,杭州,2,8,4,机器学习;深度学习;MySQL;Linux;Kubernetes;Spring,负责测试工程师相关工作，要求8年经验，薪资面议。,演示数据,"['机器学习', '深度学习', 'MySQL', 'Linux', 'Kubernetes', 'Spring']",6,硕士,新一线城市
+人工智能工程师,小米,41368.0,北京,1,8,4,Java;Git;MySQL;MongoDB,负责人工智能工程师相关工作，要求8年经验，薪资面议。,演示数据,"['Java', 'Git', 'MySQL', 'MongoDB']",4,硕士,一线城市
+Python开发工程师,百度,35585.0,深圳,1,5,2,Nginx;JavaScript,负责Python开发工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Nginx', 'JavaScript']",2,大专,一线城市
+Java开发工程师,京东,25273.0,武汉,2,5,3,Nginx;JavaScript,负责Java开发工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Nginx', 'JavaScript']",2,本科,新一线城市
+人工智能工程师,百度,31460.0,长沙,3,5,3,机器学习;深度学习;TensorFlow,负责人工智能工程师相关工作，要求5年经验，薪资面议。,演示数据,"['机器学习', '深度学习', 'TensorFlow']",3,本科,其他城市
+测试工程师,快手,19259.0,杭州,2,1,4,TensorFlow;DevOps;JavaScript;Python;Redis,负责测试工程师相关工作，要求1年经验，薪资面议。,演示数据,"['TensorFlow', 'DevOps', 'JavaScript', 'Python', 'Redis']",5,硕士,新一线城市
+Java开发工程师,美团,14164.0,长沙,3,0,4,Linux;PyTorch;JavaScript;React,负责Java开发工程师相关工作，要求0年经验，薪资面议。,演示数据,"['Linux', 'PyTorch', 'JavaScript', 'React']",4,硕士,其他城市
+前端工程师,小米,23499.0,杭州,2,3,5,Nginx;数据分析;MongoDB;Python,负责前端工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Nginx', '数据分析', 'MongoDB', 'Python']",4,博士,新一线城市
+Java开发工程师,字节跳动,16670.0,杭州,2,1,3,微服务;AWS,负责Java开发工程师相关工作，要求1年经验，薪资面议。,演示数据,"['微服务', 'AWS']",2,本科,新一线城市
+算法工程师,小米,35329.0,杭州,2,5,3,机器学习;数据分析;Vue,负责算法工程师相关工作，要求5年经验，薪资面议。,演示数据,"['机器学习', '数据分析', 'Vue']",3,本科,新一线城市
+算法工程师,字节跳动,30966.0,南京,2,10,2,Vue;Java;Python;TensorFlow;DevOps,负责算法工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Vue', 'Java', 'Python', 'TensorFlow', 'DevOps']",5,大专,新一线城市
+前端工程师,字节跳动,26640.0,杭州,2,8,3,AWS;Python;SQL;JavaScript;深度学习,负责前端工程师相关工作，要求8年经验，薪资面议。,演示数据,"['AWS', 'Python', 'SQL', 'JavaScript', '深度学习']",5,本科,新一线城市
+Python开发工程师,华为,26032.0,西安,3,10,3,Spark;Linux;Java,负责Python开发工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Spark', 'Linux', 'Java']",3,本科,其他城市
+Python开发工程师,小米,23495.0,成都,2,2,3,PyTorch;DevOps,负责Python开发工程师相关工作，要求2年经验，薪资面议。,演示数据,"['PyTorch', 'DevOps']",2,本科,新一线城市
+人工智能工程师,字节跳动,43418.0,武汉,2,8,3,Docker;Spark;Python,负责人工智能工程师相关工作，要求8年经验，薪资面议。,演示数据,"['Docker', 'Spark', 'Python']",3,本科,新一线城市
+测试工程师,阿里巴巴,33223.0,成都,2,10,4,Vue;Docker;深度学习,负责测试工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Vue', 'Docker', '深度学习']",3,硕士,新一线城市
+Python开发工程师,百度,28003.0,武汉,2,10,3,PyTorch;Spring;React;Python;机器学习,负责Python开发工程师相关工作，要求10年经验，薪资面议。,演示数据,"['PyTorch', 'Spring', 'React', 'Python', '机器学习']",5,本科,新一线城市
+产品经理,小米,22267.0,武汉,2,2,5,PyTorch;数据分析;MongoDB;Hadoop,负责产品经理相关工作，要求2年经验，薪资面议。,演示数据,"['PyTorch', '数据分析', 'MongoDB', 'Hadoop']",4,博士,新一线城市
+Python开发工程师,美团,16993.0,成都,2,0,3,Java;SQL;Nginx;Spark,负责Python开发工程师相关工作，要求0年经验，薪资面议。,演示数据,"['Java', 'SQL', 'Nginx', 'Spark']",4,本科,新一线城市
+测试工程师,小米,19464.0,成都,2,5,4,Kubernetes;Vue;Java;Spark;Python;MongoDB,负责测试工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Kubernetes', 'Vue', 'Java', 'Spark', 'Python', 'MongoDB']",6,硕士,新一线城市
+产品经理,华为,36189.0,广州,1,3,2,Nginx;TensorFlow;机器学习;SQL,负责产品经理相关工作，要求3年经验，薪资面议。,演示数据,"['Nginx', 'TensorFlow', '机器学习', 'SQL']",4,大专,一线城市
+算法工程师,京东,26872.0,西安,3,8,3,AWS;Linux;Kubernetes;Spark,负责算法工程师相关工作，要求8年经验，薪资面议。,演示数据,"['AWS', 'Linux', 'Kubernetes', 'Spark']",4,本科,其他城市
+人工智能工程师,京东,41914.0,深圳,1,5,3,Spring;Kubernetes,负责人工智能工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Spring', 'Kubernetes']",2,本科,一线城市
+人工智能工程师,字节跳动,29264.0,长沙,3,8,3,机器学习;Kubernetes;MongoDB;MySQL;微服务,负责人工智能工程师相关工作，要求8年经验，薪资面议。,演示数据,"['机器学习', 'Kubernetes', 'MongoDB', 'MySQL', '微服务']",5,本科,其他城市
+算法工程师,华为,46550.0,上海,1,5,4,JavaScript;DevOps;React;机器学习,负责算法工程师相关工作，要求5年经验，薪资面议。,演示数据,"['JavaScript', 'DevOps', 'React', '机器学习']",4,硕士,一线城市
+数据分析师,快手,20429.0,广州,1,1,2,Nginx;DevOps;JavaScript;Redis;Spark,负责数据分析师相关工作，要求1年经验，薪资面议。,演示数据,"['Nginx', 'DevOps', 'JavaScript', 'Redis', 'Spark']",5,大专,一线城市
+测试工程师,京东,22287.0,广州,1,3,3,DevOps;SQL,负责测试工程师相关工作，要求3年经验，薪资面议。,演示数据,"['DevOps', 'SQL']",2,本科,一线城市
+前端工程师,阿里巴巴,39280.0,广州,1,10,4,AWS;React,负责前端工程师相关工作，要求10年经验，薪资面议。,演示数据,"['AWS', 'React']",2,硕士,一线城市
+前端工程师,小米,30410.0,南京,2,10,3,Nginx;TensorFlow;Redis;DevOps;MongoDB;Spark,负责前端工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Nginx', 'TensorFlow', 'Redis', 'DevOps', 'MongoDB', 'Spark']",6,本科,新一线城市
+前端工程师,小米,28805.0,南京,2,8,5,DevOps;React;数据分析;Vue,负责前端工程师相关工作，要求8年经验，薪资面议。,演示数据,"['DevOps', 'React', '数据分析', 'Vue']",4,博士,新一线城市
+数据分析师,阿里巴巴,18199.0,南京,2,2,3,React;Vue;TensorFlow;AWS,负责数据分析师相关工作，要求2年经验，薪资面议。,演示数据,"['React', 'Vue', 'TensorFlow', 'AWS']",4,本科,新一线城市
+前端工程师,小米,24795.0,深圳,1,1,3,JavaScript;Spark;TensorFlow,负责前端工程师相关工作，要求1年经验，薪资面议。,演示数据,"['JavaScript', 'Spark', 'TensorFlow']",3,本科,一线城市
+测试工程师,网易,17564.0,南京,2,0,3,DevOps;Git;深度学习;Python;Hadoop,负责测试工程师相关工作，要求0年经验，薪资面议。,演示数据,"['DevOps', 'Git', '深度学习', 'Python', 'Hadoop']",5,本科,新一线城市
+产品经理,百度,33431.0,北京,1,2,5,AWS;微服务;Nginx;React;MySQL,负责产品经理相关工作，要求2年经验，薪资面议。,演示数据,"['AWS', '微服务', 'Nginx', 'React', 'MySQL']",5,博士,一线城市
+测试工程师,小米,16818.0,杭州,2,3,2,微服务;Docker;Redis;Linux;Nginx,负责测试工程师相关工作，要求3年经验，薪资面议。,演示数据,"['微服务', 'Docker', 'Redis', 'Linux', 'Nginx']",5,大专,新一线城市
+测试工程师,字节跳动,31849.0,北京,1,5,4,数据分析;Spark,负责测试工程师相关工作，要求5年经验，薪资面议。,演示数据,"['数据分析', 'Spark']",2,硕士,一线城市
+前端工程师,京东,15702.0,南京,2,0,3,Redis;TensorFlow;DevOps,负责前端工程师相关工作，要求0年经验，薪资面议。,演示数据,"['Redis', 'TensorFlow', 'DevOps']",3,本科,新一线城市
+测试工程师,腾讯,17405.0,杭州,2,2,5,微服务;AWS,负责测试工程师相关工作，要求2年经验，薪资面议。,演示数据,"['微服务', 'AWS']",2,博士,新一线城市
+数据分析师,百度,30705.0,成都,2,8,2,DevOps;Python,负责数据分析师相关工作，要求8年经验，薪资面议。,演示数据,"['DevOps', 'Python']",2,大专,新一线城市
+Python开发工程师,华为,29683.0,广州,1,5,3,机器学习;SQL;Git;Kubernetes;Redis,负责Python开发工程师相关工作，要求5年经验，薪资面议。,演示数据,"['机器学习', 'SQL', 'Git', 'Kubernetes', 'Redis']",5,本科,一线城市
+前端工程师,华为,28452.0,成都,2,5,4,DevOps;Docker,负责前端工程师相关工作，要求5年经验，薪资面议。,演示数据,"['DevOps', 'Docker']",2,硕士,新一线城市
+人工智能工程师,百度,36834.0,上海,1,0,3,Hadoop;深度学习;Kubernetes;JavaScript;Git,负责人工智能工程师相关工作，要求0年经验，薪资面议。,演示数据,"['Hadoop', '深度学习', 'Kubernetes', 'JavaScript', 'Git']",5,本科,一线城市
+算法工程师,美团,54089.0,上海,1,10,4,Git;Java,负责算法工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Git', 'Java']",2,硕士,一线城市
+测试工程师,京东,16618.0,西安,3,8,3,Python;Spark;MySQL;SQL,负责测试工程师相关工作，要求8年经验，薪资面议。,演示数据,"['Python', 'Spark', 'MySQL', 'SQL']",4,本科,其他城市
+运维工程师,京东,24452.0,成都,2,8,3,数据分析;Vue;Nginx;AWS;MySQL;Redis,负责运维工程师相关工作，要求8年经验，薪资面议。,演示数据,"['数据分析', 'Vue', 'Nginx', 'AWS', 'MySQL', 'Redis']",6,本科,新一线城市
+算法工程师,百度,22922.0,长沙,3,2,5,Vue;Redis,负责算法工程师相关工作，要求2年经验，薪资面议。,演示数据,"['Vue', 'Redis']",2,博士,其他城市
+人工智能工程师,字节跳动,33306.0,南京,2,5,4,MySQL;TensorFlow,负责人工智能工程师相关工作，要求5年经验，薪资面议。,演示数据,"['MySQL', 'TensorFlow']",2,硕士,新一线城市
+数据分析师,腾讯,22493.0,南京,2,2,5,Nginx;深度学习;Vue;AWS,负责数据分析师相关工作，要求2年经验，薪资面议。,演示数据,"['Nginx', '深度学习', 'Vue', 'AWS']",4,博士,新一线城市
+数据分析师,网易,16973.0,西安,3,0,3,AWS;DevOps;React;深度学习;MySQL,负责数据分析师相关工作，要求0年经验，薪资面议。,演示数据,"['AWS', 'DevOps', 'React', '深度学习', 'MySQL']",5,本科,其他城市
+Python开发工程师,美团,17328.0,南京,2,0,3,Spring;机器学习;Git,负责Python开发工程师相关工作，要求0年经验，薪资面议。,演示数据,"['Spring', '机器学习', 'Git']",3,本科,新一线城市
+UI设计师,华为,21830.0,南京,2,5,3,TensorFlow;PyTorch;深度学习;Redis;Vue;Spring,负责UI设计师相关工作，要求5年经验，薪资面议。,演示数据,"['TensorFlow', 'PyTorch', '深度学习', 'Redis', 'Vue', 'Spring']",6,本科,新一线城市
+Java开发工程师,华为,33835.0,广州,1,8,3,DevOps;深度学习;Docker;Kubernetes;机器学习;MySQL,负责Java开发工程师相关工作，要求8年经验，薪资面议。,演示数据,"['DevOps', '深度学习', 'Docker', 'Kubernetes', '机器学习', 'MySQL']",6,本科,一线城市
+UI设计师,字节跳动,21460.0,长沙,3,5,3,Spring;React;PyTorch,负责UI设计师相关工作，要求5年经验，薪资面议。,演示数据,"['Spring', 'React', 'PyTorch']",3,本科,其他城市
+Python开发工程师,华为,26029.0,杭州,2,8,4,Java;AWS,负责Python开发工程师相关工作，要求8年经验，薪资面议。,演示数据,"['Java', 'AWS']",2,硕士,新一线城市
+运维工程师,腾讯,19358.0,深圳,1,0,5,MySQL;Redis;TensorFlow;Docker,负责运维工程师相关工作，要求0年经验，薪资面议。,演示数据,"['MySQL', 'Redis', 'TensorFlow', 'Docker']",4,博士,一线城市
+运维工程师,字节跳动,15284.0,杭州,2,0,5,JavaScript;Git;数据分析;机器学习;Java,负责运维工程师相关工作，要求0年经验，薪资面议。,演示数据,"['JavaScript', 'Git', '数据分析', '机器学习', 'Java']",5,博士,新一线城市
+人工智能工程师,京东,44214.0,深圳,1,2,2,AWS;DevOps,负责人工智能工程师相关工作，要求2年经验，薪资面议。,演示数据,"['AWS', 'DevOps']",2,大专,一线城市
+人工智能工程师,华为,29201.0,长沙,3,10,4,Hadoop;Redis;微服务;Spring;Git;Spark,负责人工智能工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Hadoop', 'Redis', '微服务', 'Spring', 'Git', 'Spark']",6,硕士,其他城市
+人工智能工程师,百度,27470.0,长沙,3,0,4,DevOps;Kubernetes,负责人工智能工程师相关工作，要求0年经验，薪资面议。,演示数据,"['DevOps', 'Kubernetes']",2,硕士,其他城市
+Java开发工程师,京东,17130.0,杭州,2,1,3,Docker;Python,负责Java开发工程师相关工作，要求1年经验，薪资面议。,演示数据,"['Docker', 'Python']",2,本科,新一线城市
+人工智能工程师,百度,25286.0,南京,2,3,3,深度学习;Spring;Redis;JavaScript,负责人工智能工程师相关工作，要求3年经验，薪资面议。,演示数据,"['深度学习', 'Spring', 'Redis', 'JavaScript']",4,本科,新一线城市
+人工智能工程师,华为,47056.0,杭州,2,8,5,SQL;AWS;React;数据分析;Linux,负责人工智能工程师相关工作，要求8年经验，薪资面议。,演示数据,"['SQL', 'AWS', 'React', '数据分析', 'Linux']",5,博士,新一线城市
+Java开发工程师,华为,26865.0,深圳,1,0,3,微服务;Git;Spring;Redis;SQL;机器学习,负责Java开发工程师相关工作，要求0年经验，薪资面议。,演示数据,"['微服务', 'Git', 'Spring', 'Redis', 'SQL', '机器学习']",6,本科,一线城市
+算法工程师,京东,33916.0,武汉,2,5,4,Nginx;Java,负责算法工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Nginx', 'Java']",2,硕士,新一线城市
+人工智能工程师,字节跳动,23757.0,成都,2,2,2,Git;Python;机器学习;Vue;DevOps;Java,负责人工智能工程师相关工作，要求2年经验，薪资面议。,演示数据,"['Git', 'Python', '机器学习', 'Vue', 'DevOps', 'Java']",6,大专,新一线城市
+UI设计师,网易,30444.0,南京,2,8,3,Git;Spark;数据分析,负责UI设计师相关工作，要求8年经验，薪资面议。,演示数据,"['Git', 'Spark', '数据分析']",3,本科,新一线城市
+运维工程师,京东,21718.0,上海,1,2,3,Docker;TensorFlow,负责运维工程师相关工作，要求2年经验，薪资面议。,演示数据,"['Docker', 'TensorFlow']",2,本科,一线城市
+算法工程师,阿里巴巴,40628.0,南京,2,8,3,Java;Redis;JavaScript;TensorFlow;Vue;机器学习,负责算法工程师相关工作，要求8年经验，薪资面议。,演示数据,"['Java', 'Redis', 'JavaScript', 'TensorFlow', 'Vue', '机器学习']",6,本科,新一线城市
+UI设计师,快手,28703.0,武汉,2,10,2,Redis;Spark;Java;Kubernetes;MongoDB;PyTorch,负责UI设计师相关工作，要求10年经验，薪资面议。,演示数据,"['Redis', 'Spark', 'Java', 'Kubernetes', 'MongoDB', 'PyTorch']",6,大专,新一线城市
+运维工程师,快手,22917.0,南京,2,10,2,Linux;Spring;Redis;MySQL;SQL;Python,负责运维工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Linux', 'Spring', 'Redis', 'MySQL', 'SQL', 'Python']",6,大专,新一线城市
+前端工程师,字节跳动,21361.0,广州,1,2,4,JavaScript;React;SQL;Redis;数据分析,负责前端工程师相关工作，要求2年经验，薪资面议。,演示数据,"['JavaScript', 'React', 'SQL', 'Redis', '数据分析']",5,硕士,一线城市
+算法工程师,京东,30919.0,南京,2,5,4,MySQL;React;Redis;AWS;Linux,负责算法工程师相关工作，要求5年经验，薪资面议。,演示数据,"['MySQL', 'React', 'Redis', 'AWS', 'Linux']",5,硕士,新一线城市
+人工智能工程师,京东,52404.0,广州,1,5,4,Vue;DevOps,负责人工智能工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Vue', 'DevOps']",2,硕士,一线城市
+UI设计师,网易,17542.0,成都,2,2,5,Git;机器学习;MySQL;Linux,负责UI设计师相关工作，要求2年经验，薪资面议。,演示数据,"['Git', '机器学习', 'MySQL', 'Linux']",4,博士,新一线城市
+运维工程师,京东,14617.0,西安,3,2,3,Hadoop;Redis;TensorFlow;Kubernetes;React;Git,负责运维工程师相关工作，要求2年经验，薪资面议。,演示数据,"['Hadoop', 'Redis', 'TensorFlow', 'Kubernetes', 'React', 'Git']",6,本科,其他城市
+测试工程师,腾讯,22122.0,广州,1,0,3,Hadoop;机器学习;数据分析;Linux;MySQL,负责测试工程师相关工作，要求0年经验，薪资面议。,演示数据,"['Hadoop', '机器学习', '数据分析', 'Linux', 'MySQL']",5,本科,一线城市
+UI设计师,字节跳动,33575.0,深圳,1,5,3,SQL;MongoDB;Redis;Python;微服务,负责UI设计师相关工作，要求5年经验，薪资面议。,演示数据,"['SQL', 'MongoDB', 'Redis', 'Python', '微服务']",5,本科,一线城市
+前端工程师,阿里巴巴,18358.0,武汉,2,0,3,TensorFlow;Nginx;深度学习;Hadoop,负责前端工程师相关工作，要求0年经验，薪资面议。,演示数据,"['TensorFlow', 'Nginx', '深度学习', 'Hadoop']",4,本科,新一线城市
+UI设计师,华为,21119.0,成都,2,3,3,AWS;Java;Nginx;JavaScript;React,负责UI设计师相关工作，要求3年经验，薪资面议。,演示数据,"['AWS', 'Java', 'Nginx', 'JavaScript', 'React']",5,本科,新一线城市
+Java开发工程师,华为,29569.0,广州,1,3,2,Redis;Docker,负责Java开发工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Redis', 'Docker']",2,大专,一线城市
+Python开发工程师,小米,26623.0,北京,1,2,5,PyTorch;Spark;Linux;React,负责Python开发工程师相关工作，要求2年经验，薪资面议。,演示数据,"['PyTorch', 'Spark', 'Linux', 'React']",4,博士,一线城市
+人工智能工程师,快手,34968.0,武汉,2,8,5,JavaScript;Nginx;Hadoop,负责人工智能工程师相关工作，要求8年经验，薪资面议。,演示数据,"['JavaScript', 'Nginx', 'Hadoop']",3,博士,新一线城市
+运维工程师,网易,24956.0,广州,1,5,3,Redis;Vue;机器学习;Python,负责运维工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Redis', 'Vue', '机器学习', 'Python']",4,本科,一线城市
+UI设计师,华为,15822.0,杭州,2,1,2,Git;Spring;数据分析;Spark,负责UI设计师相关工作，要求1年经验，薪资面议。,演示数据,"['Git', 'Spring', '数据分析', 'Spark']",4,大专,新一线城市
+算法工程师,快手,31615.0,南京,2,1,3,React;Hadoop,负责算法工程师相关工作，要求1年经验，薪资面议。,演示数据,"['React', 'Hadoop']",2,本科,新一线城市
+人工智能工程师,腾讯,28828.0,成都,2,2,4,Vue;Python;Git;机器学习;DevOps,负责人工智能工程师相关工作，要求2年经验，薪资面议。,演示数据,"['Vue', 'Python', 'Git', '机器学习', 'DevOps']",5,硕士,新一线城市
+运维工程师,百度,24427.0,长沙,3,10,3,Nginx;PyTorch;React,负责运维工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Nginx', 'PyTorch', 'React']",3,本科,其他城市
+算法工程师,华为,34044.0,长沙,3,8,5,数据分析;SQL;Java,负责算法工程师相关工作，要求8年经验，薪资面议。,演示数据,"['数据分析', 'SQL', 'Java']",3,博士,其他城市
+Python开发工程师,京东,27870.0,南京,2,5,3,Spring;TensorFlow,负责Python开发工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Spring', 'TensorFlow']",2,本科,新一线城市
+数据分析师,华为,31296.0,深圳,1,1,5,MongoDB;Vue;Docker;MySQL,负责数据分析师相关工作，要求1年经验，薪资面议。,演示数据,"['MongoDB', 'Vue', 'Docker', 'MySQL']",4,博士,一线城市
+Java开发工程师,小米,17640.0,成都,2,3,2,机器学习;微服务;Hadoop,负责Java开发工程师相关工作，要求3年经验，薪资面议。,演示数据,"['机器学习', '微服务', 'Hadoop']",3,大专,新一线城市
+Java开发工程师,京东,24570.0,成都,2,10,3,SQL;Redis;PyTorch;机器学习;Vue;Git,负责Java开发工程师相关工作，要求10年经验，薪资面议。,演示数据,"['SQL', 'Redis', 'PyTorch', '机器学习', 'Vue', 'Git']",6,本科,新一线城市
+Java开发工程师,网易,27779.0,成都,2,8,3,AWS;TensorFlow;Nginx;React;数据分析;JavaScript,负责Java开发工程师相关工作，要求8年经验，薪资面议。,演示数据,"['AWS', 'TensorFlow', 'Nginx', 'React', '数据分析', 'JavaScript']",6,本科,新一线城市
+测试工程师,阿里巴巴,12681.0,杭州,2,0,3,Spring;MySQL,负责测试工程师相关工作，要求0年经验，薪资面议。,演示数据,"['Spring', 'MySQL']",2,本科,新一线城市
+数据分析师,京东,31673.0,上海,1,5,3,机器学习;微服务;深度学习;AWS,负责数据分析师相关工作，要求5年经验，薪资面议。,演示数据,"['机器学习', '微服务', '深度学习', 'AWS']",4,本科,一线城市
+前端工程师,美团,14508.0,长沙,3,3,4,Nginx;Spark;Vue;Java;深度学习,负责前端工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Nginx', 'Spark', 'Vue', 'Java', '深度学习']",5,硕士,其他城市
+运维工程师,小米,28360.0,广州,1,3,3,机器学习;PyTorch,负责运维工程师相关工作，要求3年经验，薪资面议。,演示数据,"['机器学习', 'PyTorch']",2,本科,一线城市
+Python开发工程师,百度,20234.0,成都,2,3,3,Redis;JavaScript,负责Python开发工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Redis', 'JavaScript']",2,本科,新一线城市
+Python开发工程师,小米,16801.0,长沙,3,0,5,Git;Kubernetes;JavaScript,负责Python开发工程师相关工作，要求0年经验，薪资面议。,演示数据,"['Git', 'Kubernetes', 'JavaScript']",3,博士,其他城市
+人工智能工程师,华为,47304.0,广州,1,1,5,DevOps;Linux;Nginx;Python,负责人工智能工程师相关工作，要求1年经验，薪资面议。,演示数据,"['DevOps', 'Linux', 'Nginx', 'Python']",4,博士,一线城市
+前端工程师,字节跳动,32743.0,深圳,1,5,3,机器学习;Python,负责前端工程师相关工作，要求5年经验，薪资面议。,演示数据,"['机器学习', 'Python']",2,本科,一线城市
+产品经理,字节跳动,42476.0,北京,1,10,5,Python;Docker;Vue;Java,负责产品经理相关工作，要求10年经验，薪资面议。,演示数据,"['Python', 'Docker', 'Vue', 'Java']",4,博士,一线城市
+UI设计师,网易,14858.0,武汉,2,0,4,DevOps;PyTorch;MongoDB;Git;SQL,负责UI设计师相关工作，要求0年经验，薪资面议。,演示数据,"['DevOps', 'PyTorch', 'MongoDB', 'Git', 'SQL']",5,硕士,新一线城市
+数据分析师,京东,20945.0,西安,3,5,2,Spring;Redis;数据分析;Python;Java;MySQL,负责数据分析师相关工作，要求5年经验，薪资面议。,演示数据,"['Spring', 'Redis', '数据分析', 'Python', 'Java', 'MySQL']",6,大专,其他城市
+Java开发工程师,快手,27468.0,武汉,2,3,4,JavaScript;TensorFlow,负责Java开发工程师相关工作，要求3年经验，薪资面议。,演示数据,"['JavaScript', 'TensorFlow']",2,硕士,新一线城市
+Java开发工程师,华为,26884.0,深圳,1,1,3,AWS;深度学习;TensorFlow;Hadoop;Nginx;MongoDB,负责Java开发工程师相关工作，要求1年经验，薪资面议。,演示数据,"['AWS', '深度学习', 'TensorFlow', 'Hadoop', 'Nginx', 'MongoDB']",6,本科,一线城市
+UI设计师,小米,18893.0,南京,2,5,3,数据分析;DevOps,负责UI设计师相关工作，要求5年经验，薪资面议。,演示数据,"['数据分析', 'DevOps']",2,本科,新一线城市
+测试工程师,京东,23974.0,广州,1,3,3,Hadoop;Spark;微服务;SQL;TensorFlow,负责测试工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Hadoop', 'Spark', '微服务', 'SQL', 'TensorFlow']",5,本科,一线城市
+算法工程师,字节跳动,31060.0,成都,2,2,3,JavaScript;Spark;SQL;微服务;PyTorch,负责算法工程师相关工作，要求2年经验，薪资面议。,演示数据,"['JavaScript', 'Spark', 'SQL', '微服务', 'PyTorch']",5,本科,新一线城市
+Python开发工程师,京东,22133.0,西安,3,5,4,Spark;PyTorch,负责Python开发工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Spark', 'PyTorch']",2,硕士,其他城市
+算法工程师,阿里巴巴,39743.0,北京,1,5,3,MongoDB;Kubernetes;Linux;机器学习;MySQL;React,负责算法工程师相关工作，要求5年经验，薪资面议。,演示数据,"['MongoDB', 'Kubernetes', 'Linux', '机器学习', 'MySQL', 'React']",6,本科,一线城市
+UI设计师,腾讯,19228.0,成都,2,2,2,React;Spark;AWS;Nginx;机器学习;深度学习,负责UI设计师相关工作，要求2年经验，薪资面议。,演示数据,"['React', 'Spark', 'AWS', 'Nginx', '机器学习', '深度学习']",6,大专,新一线城市
+算法工程师,字节跳动,19277.0,长沙,3,0,3,TensorFlow;PyTorch;Python;Docker,负责算法工程师相关工作，要求0年经验，薪资面议。,演示数据,"['TensorFlow', 'PyTorch', 'Python', 'Docker']",4,本科,其他城市
+测试工程师,小米,13595.0,长沙,3,0,3,JavaScript;微服务,负责测试工程师相关工作，要求0年经验，薪资面议。,演示数据,"['JavaScript', '微服务']",2,本科,其他城市
+测试工程师,快手,23250.0,广州,1,3,3,Spring;微服务;TensorFlow;DevOps,负责测试工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Spring', '微服务', 'TensorFlow', 'DevOps']",4,本科,一线城市
+Java开发工程师,网易,12772.0,长沙,3,0,3,Java;机器学习;JavaScript;Vue;Redis;Spark,负责Java开发工程师相关工作，要求0年经验，薪资面议。,演示数据,"['Java', '机器学习', 'JavaScript', 'Vue', 'Redis', 'Spark']",6,本科,其他城市
+运维工程师,网易,13542.0,长沙,3,3,3,SQL;PyTorch;Spark;DevOps;Spring;Git,负责运维工程师相关工作，要求3年经验，薪资面议。,演示数据,"['SQL', 'PyTorch', 'Spark', 'DevOps', 'Spring', 'Git']",6,本科,其他城市
+算法工程师,华为,20312.0,西安,3,0,3,Java;Python;Kubernetes;Spring;深度学习;Linux,负责算法工程师相关工作，要求0年经验，薪资面议。,演示数据,"['Java', 'Python', 'Kubernetes', 'Spring', '深度学习', 'Linux']",6,本科,其他城市
+产品经理,百度,19979.0,杭州,2,0,2,Docker;Linux;Hadoop;AWS;深度学习,负责产品经理相关工作，要求0年经验，薪资面议。,演示数据,"['Docker', 'Linux', 'Hadoop', 'AWS', '深度学习']",5,大专,新一线城市
+UI设计师,腾讯,26940.0,西安,3,10,4,Hadoop;微服务,负责UI设计师相关工作，要求10年经验，薪资面议。,演示数据,"['Hadoop', '微服务']",2,硕士,其他城市
+Python开发工程师,阿里巴巴,24729.0,武汉,2,3,2,Spark;Git;Hadoop;数据分析;DevOps;Spring,负责Python开发工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Spark', 'Git', 'Hadoop', '数据分析', 'DevOps', 'Spring']",6,大专,新一线城市
+Python开发工程师,百度,24540.0,武汉,2,2,3,Redis;深度学习;PyTorch;JavaScript;Spark;SQL,负责Python开发工程师相关工作，要求2年经验，薪资面议。,演示数据,"['Redis', '深度学习', 'PyTorch', 'JavaScript', 'Spark', 'SQL']",6,本科,新一线城市
+人工智能工程师,字节跳动,27106.0,武汉,2,3,4,微服务;TensorFlow;React;DevOps,负责人工智能工程师相关工作，要求3年经验，薪资面议。,演示数据,"['微服务', 'TensorFlow', 'React', 'DevOps']",4,硕士,新一线城市
+UI设计师,字节跳动,32371.0,上海,1,8,2,DevOps;PyTorch;微服务,负责UI设计师相关工作，要求8年经验，薪资面议。,演示数据,"['DevOps', 'PyTorch', '微服务']",3,大专,一线城市
+Java开发工程师,网易,22509.0,广州,1,1,3,Linux;数据分析;JavaScript;Docker;微服务;MySQL,负责Java开发工程师相关工作，要求1年经验，薪资面议。,演示数据,"['Linux', '数据分析', 'JavaScript', 'Docker', '微服务', 'MySQL']",6,本科,一线城市
+人工智能工程师,字节跳动,30505.0,长沙,3,3,4,数据分析;DevOps;Nginx;TensorFlow;微服务;机器学习,负责人工智能工程师相关工作，要求3年经验，薪资面议。,演示数据,"['数据分析', 'DevOps', 'Nginx', 'TensorFlow', '微服务', '机器学习']",6,硕士,其他城市
+Java开发工程师,阿里巴巴,23261.0,南京,2,3,3,Git;Java;PyTorch;MongoDB,负责Java开发工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Git', 'Java', 'PyTorch', 'MongoDB']",4,本科,新一线城市
+运维工程师,京东,14481.0,杭州,2,3,2,JavaScript;数据分析;Nginx;MongoDB,负责运维工程师相关工作，要求3年经验，薪资面议。,演示数据,"['JavaScript', '数据分析', 'Nginx', 'MongoDB']",4,大专,新一线城市
+人工智能工程师,百度,39988.0,南京,2,5,5,Redis;Git,负责人工智能工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Redis', 'Git']",2,博士,新一线城市
+人工智能工程师,美团,28047.0,成都,2,3,4,Redis;SQL,负责人工智能工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Redis', 'SQL']",2,硕士,新一线城市
+UI设计师,美团,27675.0,上海,1,8,3,Redis;MongoDB;Nginx;Docker;PyTorch,负责UI设计师相关工作，要求8年经验，薪资面议。,演示数据,"['Redis', 'MongoDB', 'Nginx', 'Docker', 'PyTorch']",5,本科,一线城市
+测试工程师,阿里巴巴,20671.0,杭州,2,3,5,Java;数据分析;微服务;TensorFlow;JavaScript;机器学习,负责测试工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Java', '数据分析', '微服务', 'TensorFlow', 'JavaScript', '机器学习']",6,博士,新一线城市
+测试工程师,华为,15602.0,西安,3,2,3,Linux;TensorFlow;JavaScript;Git;DevOps;PyTorch,负责测试工程师相关工作，要求2年经验，薪资面议。,演示数据,"['Linux', 'TensorFlow', 'JavaScript', 'Git', 'DevOps', 'PyTorch']",6,本科,其他城市
+前端工程师,字节跳动,28205.0,武汉,2,5,4,AWS;Hadoop;数据分析;TensorFlow,负责前端工程师相关工作，要求5年经验，薪资面议。,演示数据,"['AWS', 'Hadoop', '数据分析', 'TensorFlow']",4,硕士,新一线城市
+Java开发工程师,百度,22955.0,西安,3,8,4,Python;PyTorch;Spring;Docker,负责Java开发工程师相关工作，要求8年经验，薪资面议。,演示数据,"['Python', 'PyTorch', 'Spring', 'Docker']",4,硕士,其他城市
+运维工程师,小米,20040.0,成都,2,1,3,JavaScript;Spring;SQL,负责运维工程师相关工作，要求1年经验，薪资面议。,演示数据,"['JavaScript', 'Spring', 'SQL']",3,本科,新一线城市
+UI设计师,快手,13460.0,西安,3,0,4,Linux;Nginx;Hadoop;DevOps;Docker;数据分析,负责UI设计师相关工作，要求0年经验，薪资面议。,演示数据,"['Linux', 'Nginx', 'Hadoop', 'DevOps', 'Docker', '数据分析']",6,硕士,其他城市
+运维工程师,网易,19056.0,深圳,1,0,3,Redis;Nginx;Spring,负责运维工程师相关工作，要求0年经验，薪资面议。,演示数据,"['Redis', 'Nginx', 'Spring']",3,本科,一线城市
+UI设计师,网易,27295.0,广州,1,1,3,Kubernetes;PyTorch;机器学习;Git;Redis,负责UI设计师相关工作，要求1年经验，薪资面议。,演示数据,"['Kubernetes', 'PyTorch', '机器学习', 'Git', 'Redis']",5,本科,一线城市
+测试工程师,华为,22252.0,杭州,2,5,4,Kubernetes;Nginx;Linux,负责测试工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Kubernetes', 'Nginx', 'Linux']",3,硕士,新一线城市
+运维工程师,阿里巴巴,36530.0,北京,1,10,3,深度学习;MongoDB,负责运维工程师相关工作，要求10年经验，薪资面议。,演示数据,"['深度学习', 'MongoDB']",2,本科,一线城市
+Java开发工程师,腾讯,27728.0,杭州,2,10,3,Linux;Spark;JavaScript;React;Redis;PyTorch,负责Java开发工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Linux', 'Spark', 'JavaScript', 'React', 'Redis', 'PyTorch']",6,本科,新一线城市
+Python开发工程师,阿里巴巴,23360.0,武汉,2,3,4,JavaScript;PyTorch;React;Python;TensorFlow,负责Python开发工程师相关工作，要求3年经验，薪资面议。,演示数据,"['JavaScript', 'PyTorch', 'React', 'Python', 'TensorFlow']",5,硕士,新一线城市
+前端工程师,快手,14819.0,成都,2,1,2,深度学习;Linux;DevOps;MySQL;Redis,负责前端工程师相关工作，要求1年经验，薪资面议。,演示数据,"['深度学习', 'Linux', 'DevOps', 'MySQL', 'Redis']",5,大专,新一线城市
+Java开发工程师,小米,21315.0,北京,1,0,3,AWS;微服务;Nginx,负责Java开发工程师相关工作，要求0年经验，薪资面议。,演示数据,"['AWS', '微服务', 'Nginx']",3,本科,一线城市
+Java开发工程师,京东,27299.0,武汉,2,10,3,Java;React,负责Java开发工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Java', 'React']",2,本科,新一线城市
+运维工程师,快手,12708.0,长沙,3,0,2,Nginx;AWS;Python;数据分析;MongoDB,负责运维工程师相关工作，要求0年经验，薪资面议。,演示数据,"['Nginx', 'AWS', 'Python', '数据分析', 'MongoDB']",5,大专,其他城市
+前端工程师,阿里巴巴,19671.0,广州,1,2,3,React;Git;Spark;Docker,负责前端工程师相关工作，要求2年经验，薪资面议。,演示数据,"['React', 'Git', 'Spark', 'Docker']",4,本科,一线城市
+产品经理,美团,18724.0,西安,3,0,4,AWS;Python;Hadoop;MySQL;Java;深度学习,负责产品经理相关工作，要求0年经验，薪资面议。,演示数据,"['AWS', 'Python', 'Hadoop', 'MySQL', 'Java', '深度学习']",6,硕士,其他城市
+Python开发工程师,阿里巴巴,20593.0,杭州,2,2,5,微服务;机器学习;数据分析,负责Python开发工程师相关工作，要求2年经验，薪资面议。,演示数据,"['微服务', '机器学习', '数据分析']",3,博士,新一线城市
+产品经理,网易,15958.0,长沙,3,1,2,数据分析;Docker;DevOps;机器学习,负责产品经理相关工作，要求1年经验，薪资面议。,演示数据,"['数据分析', 'Docker', 'DevOps', '机器学习']",4,大专,其他城市
+前端工程师,京东,23519.0,南京,2,10,3,Java;Spring;Kubernetes;TensorFlow;MongoDB,负责前端工程师相关工作，要求10年经验，薪资面议。,演示数据,"['Java', 'Spring', 'Kubernetes', 'TensorFlow', 'MongoDB']",5,本科,新一线城市
+运维工程师,腾讯,14449.0,西安,3,2,2,Spring;PyTorch;DevOps,负责运维工程师相关工作，要求2年经验，薪资面议。,演示数据,"['Spring', 'PyTorch', 'DevOps']",3,大专,其他城市
+算法工程师,网易,27943.0,成都,2,0,5,微服务;Redis;Hadoop;TensorFlow;Docker,负责算法工程师相关工作，要求0年经验，薪资面议。,演示数据,"['微服务', 'Redis', 'Hadoop', 'TensorFlow', 'Docker']",5,博士,新一线城市
+产品经理,阿里巴巴,31734.0,南京,2,10,4,微服务;Spark,负责产品经理相关工作，要求10年经验，薪资面议。,演示数据,"['微服务', 'Spark']",2,硕士,新一线城市
+人工智能工程师,华为,40218.0,武汉,2,10,3,SQL;JavaScript;TensorFlow;机器学习,负责人工智能工程师相关工作，要求10年经验，薪资面议。,演示数据,"['SQL', 'JavaScript', 'TensorFlow', '机器学习']",4,本科,新一线城市
+运维工程师,京东,22320.0,杭州,2,5,4,PyTorch;Redis;Java;微服务;Nginx,负责运维工程师相关工作，要求5年经验，薪资面议。,演示数据,"['PyTorch', 'Redis', 'Java', '微服务', 'Nginx']",5,硕士,新一线城市
+Python开发工程师,腾讯,22155.0,杭州,2,0,4,MongoDB;微服务;机器学习;Docker,负责Python开发工程师相关工作，要求0年经验，薪资面议。,演示数据,"['MongoDB', '微服务', '机器学习', 'Docker']",4,硕士,新一线城市
+人工智能工程师,美团,50841.0,深圳,1,8,5,JavaScript;React;DevOps,负责人工智能工程师相关工作，要求8年经验，薪资面议。,演示数据,"['JavaScript', 'React', 'DevOps']",3,博士,一线城市
+测试工程师,字节跳动,20841.0,成都,2,5,2,PyTorch;Redis;DevOps;JavaScript;Git,负责测试工程师相关工作，要求5年经验，薪资面议。,演示数据,"['PyTorch', 'Redis', 'DevOps', 'JavaScript', 'Git']",5,大专,新一线城市
+产品经理,字节跳动,21281.0,西安,3,3,3,SQL;Python;微服务,负责产品经理相关工作，要求3年经验，薪资面议。,演示数据,"['SQL', 'Python', '微服务']",3,本科,其他城市
+UI设计师,华为,18297.0,南京,2,3,4,深度学习;Redis;Kubernetes;Nginx,负责UI设计师相关工作，要求3年经验，薪资面议。,演示数据,"['深度学习', 'Redis', 'Kubernetes', 'Nginx']",4,硕士,新一线城市
+数据分析师,美团,22252.0,南京,2,0,3,Docker;深度学习;Redis;JavaScript;机器学习,负责数据分析师相关工作，要求0年经验，薪资面议。,演示数据,"['Docker', '深度学习', 'Redis', 'JavaScript', '机器学习']",5,本科,新一线城市
+Java开发工程师,小米,23820.0,成都,2,5,4,Docker;深度学习;数据分析;PyTorch,负责Java开发工程师相关工作，要求5年经验，薪资面议。,演示数据,"['Docker', '深度学习', '数据分析', 'PyTorch']",4,硕士,新一线城市
+Java开发工程师,小米,25247.0,广州,1,1,5,Python;PyTorch;AWS;Git;Redis,负责Java开发工程师相关工作，要求1年经验，薪资面议。,演示数据,"['Python', 'PyTorch', 'AWS', 'Git', 'Redis']",5,博士,一线城市
+人工智能工程师,字节跳动,31222.0,深圳,1,0,2,MongoDB;Spark;DevOps;Git;JavaScript,负责人工智能工程师相关工作，要求0年经验，薪资面议。,演示数据,"['MongoDB', 'Spark', 'DevOps', 'Git', 'JavaScript']",5,大专,一线城市
+Java开发工程师,快手,23692.0,成都,2,3,3,Linux;DevOps;AWS;数据分析,负责Java开发工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Linux', 'DevOps', 'AWS', '数据分析']",4,本科,新一线城市
+前端工程师,字节跳动,32693.0,深圳,1,3,4,SQL;MongoDB,负责前端工程师相关工作，要求3年经验，薪资面议。,演示数据,"['SQL', 'MongoDB']",2,硕士,一线城市
+前端工程师,阿里巴巴,20778.0,杭州,2,1,3,PyTorch;MongoDB;Spring,负责前端工程师相关工作，要求1年经验，薪资面议。,演示数据,"['PyTorch', 'MongoDB', 'Spring']",3,本科,新一线城市
+数据分析师,字节跳动,27839.0,杭州,2,8,4,Nginx;AWS;JavaScript;MongoDB,负责数据分析师相关工作，要求8年经验，薪资面议。,演示数据,"['Nginx', 'AWS', 'JavaScript', 'MongoDB']",4,硕士,新一线城市
+人工智能工程师,快手,24418.0,长沙,3,1,3,TensorFlow;Git;Java;Python;JavaScript;深度学习,负责人工智能工程师相关工作，要求1年经验，薪资面议。,演示数据,"['TensorFlow', 'Git', 'Java', 'Python', 'JavaScript', '深度学习']",6,本科,其他城市
+数据分析师,小米,31899.0,杭州,2,10,4,MySQL;数据分析,负责数据分析师相关工作，要求10年经验，薪资面议。,演示数据,"['MySQL', '数据分析']",2,硕士,新一线城市
+算法工程师,字节跳动,33768.0,杭州,2,3,3,Spring;Redis;JavaScript;深度学习;Java,负责算法工程师相关工作，要求3年经验，薪资面议。,演示数据,"['Spring', 'Redis', 'JavaScript', '深度学习', 'Java']",5,本科,新一线城市
