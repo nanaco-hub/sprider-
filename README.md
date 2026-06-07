@@ -1,7 +1,7 @@
 ## 环境要求
 
 - Python 3.7+
-- 操作系统：Windows / Linux / macOS
+- 操作系统：Windows
 
 ---
 
