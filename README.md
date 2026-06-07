@@ -28,7 +28,7 @@ pip install scrapy pymysql sqlalchemy itemadapter pandas numpy scikit-learn matp
 | `jieba` | 中文分词 |
 
 ---
-## 四、数据库配置
+## 二、数据库配置
 
 使用 MySQL 存储时，需在 `data_cleaner.py`（第8行）和 `pipelines.py`（第37行）中修改为你的数据库信息：
 
